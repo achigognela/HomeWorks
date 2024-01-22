@@ -1,6 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
 
-//task 1 
+//task 1, დაწერეთ პროგრამა რომელიც კონსოლიდან მიიღებს მასივის ზომას , n
+რაოდენობის ელემენტს შეინახავს მასივში. შემდეგ ამ მასივიდან გაფილტრავს
+ელემენტს ლუწ რიცხვებს შეინახავს 1 მასივში ხოლო კენტებს მეორეში
 
 Console.WriteLine("Enter the size of the array: ");
 int arraySize = Convert.ToInt32(Console.ReadLine());
