@@ -1,0 +1,15 @@
+C:\Users\achig\source\repos\homework11\homework11\obj\Debug\net5.0\homework11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achig\source\repos\homework11\homework11\obj\Debug\net5.0\homework11.AssemblyInfoInputs.cache
+C:\Users\achig\source\repos\homework11\homework11\obj\Debug\net5.0\homework11.AssemblyInfo.cs
+C:\Users\achig\source\repos\homework11\homework11\obj\Debug\net5.0\homework11.csproj.CoreCompileInputs.cache
+C:\Users\achig\source\repos\homework11\homework11\bin\Debug\net5.0\homework11.exe
+C:\Users\achig\source\repos\homework11\homework11\bin\Debug\net5.0\homework11.deps.json
+C:\Users\achig\source\repos\homework11\homework11\bin\Debug\net5.0\homework11.runtimeconfig.json
+C:\Users\achig\source\repos\homework11\homework11\bin\Debug\net5.0\homework11.runtimeconfig.dev.json
+C:\Users\achig\source\repos\homework11\homework11\bin\Debug\net5.0\homework11.dll
+C:\Users\achig\source\repos\homework11\homework11\bin\Debug\net5.0\homework11.pdb
+C:\Users\achig\source\repos\homework11\homework11\obj\Debug\net5.0\homework11.dll
+C:\Users\achig\source\repos\homework11\homework11\obj\Debug\net5.0\refint\homework11.dll
+C:\Users\achig\source\repos\homework11\homework11\obj\Debug\net5.0\homework11.pdb
+C:\Users\achig\source\repos\homework11\homework11\obj\Debug\net5.0\homework11.genruntimeconfig.cache
+C:\Users\achig\source\repos\homework11\homework11\obj\Debug\net5.0\ref\homework11.dll
